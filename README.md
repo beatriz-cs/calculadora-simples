@@ -1,2 +1,2 @@
 # calculadora-simples
-Created with CodeSandbox
+Desafio feito no segundo módulo do Vai na Web
